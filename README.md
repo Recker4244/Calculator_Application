@@ -11,6 +11,6 @@ material
 google_fonts  
 
 ## Builds:
-ARM64- [Calculator](../blob/main/Builds/app-arm64-v8a-release.apk)  
+ARM64- [Calculator](../main/Builds/app-arm64-v8a-release.apk)  
 
-x86_64- [Calculator](../blob/main/Builds/app-x86_64-release.apk)
+x86_64- [Calculator](../main/Builds/app-x86_64-release.apk)
