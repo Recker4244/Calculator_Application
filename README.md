@@ -1,16 +1,11 @@
 # calculator
+<img src="https://github.com/Recker4244/Calculator_Application/blob/main/calculator.png" width="250" height="500"/>
 
-A new Flutter project.
+A simple calculator android application with basic functions of a calculator like addition ,subtraction,division,multiplication and modulo.
 
-## Getting Started
+This project was made using **Flutter**.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## dependencies used:
+math_expressions  
+material  
+google_fonts  
