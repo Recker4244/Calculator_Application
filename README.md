@@ -9,3 +9,6 @@ This project was made using **Flutter**.
 math_expressions  
 material  
 google_fonts  
+
+## Builds:
+ARM64- [Calculator](../blob/main/build/app/outputs/flutter-apk/app-arm64-v8a-release.apk)
